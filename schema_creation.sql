@@ -121,3 +121,18 @@ CREATE TABLE maintenance_records (
     cost             NUMERIC(10,2) NOT NULL CHECK (cost >= 0),
     odometer_reading INT NOT NULL CHECK (odometer_reading >= 0)
 );
+
+CREATE INDEX idx_employees_branch ON employees (branch_id);
+CREATE INDEX idx_cars_category    ON cars (category_id);
+CREATE INDEX idx_cars_branch      ON cars (branch_id);
+CREATE INDEX idx_rentals_client   ON rentals (client_id);
+CREATE INDEX idx_rentals_car      ON rentals (car_id);
+CREATE INDEX idx_rentals_employee ON rentals (employee_id);
+CREATE INDEX idx_payments_rental  ON payments (rental_id);
+CREATE INDEX idx_maintenance_car  ON maintenance_records (car_id);
+
+CREATE INDEX idx_cars_status    ON cars (status);
+CREATE INDEX idx_rentals_status ON rentals (status);
+
+
+CREATE INDEX idx_rentals_dates ON rentals (start_date, planned_end_date);
