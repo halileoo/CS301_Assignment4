@@ -1,0 +1,81 @@
+id,name,city,address,phone,email
+1,Young America Station,Young America,"345 Sycamore Street, 55551",+1 214 316 3568,young.america.station@rentalco.com
+2,Monroe North,Monroe,"101 Hoover Street, 71208",+1 407 584 8469,monroe.north@rentalco.com
+3,Roanoke Station,Roanoke,"953 Mesa Drive, 24014",+1 407 217 0266,roanoke.station@rentalco.com
+4,Vienna East,Vienna,"900 Cross Street, 22184",+1 917 319 3620,vienna.east@rentalco.com
+5,Rohr South,Rohr,"835 Friedrich-Ebert-Straße, 98530",+49 872 515 2782,rohr.south@rentalco.com
+6,Kiefersfelden East,Kiefersfelden,"897 Ludwigstraße, 83088",+49 957 915 5845,kiefersfelden.east@rentalco.com
+7,La Chapelle-Vaupelteigne Airport,La Chapelle-Vaupelteigne,"379 Rue Racine, 89800",+33 705 243 4324,la.chapelle.vaupelteigne.airport@rentalco.com
+8,Great Witley Station,Great Witley,"667 School Street, WR6",+44 449 385 2870,great.witley.station@rentalco.com
+9,Stanton upon Hine Heath Station,Stanton upon Hine Heath,"155 Cheapside, SY4",+44 387 753 7822,stanton.upon.hine.heath.station@rentalco.com
+10,Stratford East,Stratford,"101 Islington Avenue, C1B",+1 789 619 0726,stratford.east@rentalco.com
+11,Lethbridge West and Central Airport,Lethbridge West and Central,"807 Autoroute Métropolitaine, T1J",+1 268 542 7944,lethbridge.west.and.central.airport@rentalco.com
+12,San Miguel De La Ribera West,San Miguel De La Ribera,"54 Paseo de Gracia, 49717",+34 734 281 1445,san.miguel.de.la.ribera.west@rentalco.com
+13,Santa Maria North,Santa Maria,"636 Via Tasso, 29022",+39 478 469 8093,santa.maria.north@rentalco.com
+14,Spui Downtown,Spui,"295 Populierenlaan, 4539",+31 080 416 9128,spui.downtown@rentalco.com
+15,Fresno South,Fresno,"345 Hillside Avenue, 93726",+1 571 695 4166,fresno.south@rentalco.com
+16,Milwaukee Station,Milwaukee,"824 Village Lane, 53220",+1 425 596 6938,milwaukee.station@rentalco.com
+17,Las Vegas Station,Las Vegas,"365 College Street, 89155",+1 918 640 3717,las.vegas.station@rentalco.com
+18,Alsbach-Hähnlein Station,Alsbach-Hähnlein,"128 Karlsruher Straße, 64665",+49 753 924 7035,alsbach.h.hnlein.station@rentalco.com
+19,Grünheide Kagel Central,Grünheide Kagel,"698 Münsterplatz, 15537",+49 760 023 0775,gr.nheide.kagel.central@rentalco.com
+20,Magny-la-Campagne East,Magny-la-Campagne,"375 Boulevard Saint-Germain, 14270",+33 666 089 9520,magny.la.campagne.east@rentalco.com
+21,Gamrie North,Gamrie,"863 Monks Road, AB45",+44 179 924 9415,gamrie.north@rentalco.com
+22,Daylesford North,Daylesford,"748 Chapel Street, GL56",+44 453 338 1597,daylesford.north@rentalco.com
+23,Mercier West Station,Mercier West,"52 Highway 401, H1M",+1 200 213 3958,mercier.west.station@rentalco.com
+24,Plateau Mont-Royal West Central,Plateau Mont-Royal West,"388 Front Street, H2T",+1 725 353 6400,plateau.mont.royal.west.central@rentalco.com
+25,Villarrin de Campos South,Villarrin de Campos,"385 Calle de Colón, 49137",+34 951 807 7391,villarrin.de.campos.south@rentalco.com
+26,Olmedo Central,Olmedo,"203 Via Giolitti, 07040",+39 493 679 0230,olmedo.central@rentalco.com
+27,Emst South,Emst,"59 Markt, 8166",+31 176 865 8265,emst.south@rentalco.com
+28,Lafayette North,Lafayette,"454 Parkway Drive, 70593",+1 646 669 7629,lafayette.north@rentalco.com
+29,Kansas City Downtown,Kansas City,"923 Catherine Street, 64149",+1 830 430 8405,kansas.city.downtown@rentalco.com
+30,Las Vegas North,Las Vegas,"349 Massachusetts Avenue, 89135",+1 952 807 6265,las.vegas.north@rentalco.com
+31,Minneapolis Station,Minneapolis,"589 Garfield Street, 55402",+1 504 358 3983,minneapolis.station@rentalco.com
+32,Schöntal Airport,Schöntal,"324 Hafenstraße, 74214",+49 655 028 8156,sch.ntal.airport@rentalco.com
+33,Kochel am See East,Kochel am See,"533 Kölner Straße, 82431",+49 662 073 1434,kochel.am.see.east@rentalco.com
+34,Fétigny Downtown,Fétigny,"806 Rue de Belleville, 39240",+33 005 409 2966,f.tigny.downtown@rentalco.com
+35,Edinburgh Downtown,Edinburgh,"409 Norfolk Road, EH2",+44 485 343 9508,edinburgh.downtown@rentalco.com
+36,Hawkesbury Station,Hawkesbury,"947 School Lane, GL9",+44 457 115 8609,hawkesbury.station@rentalco.com
+37,Alliston Airport,Alliston,"592 Bronson Avenue, L9R",+1 522 391 2666,alliston.airport@rentalco.com
+38,Saint-Georges Northwest Downtown,Saint-Georges Northwest,"454 Agricola Street, G6A",+1 416 387 2137,saint.georges.northwest.downtown@rentalco.com
+39,Villargordo East,Villargordo,"365 Calle de José Ortega y Gasset, 23630",+34 044 334 8957,villargordo.east@rentalco.com
+40,San Ruffillo North,San Ruffillo,"558 Corso Cavour, 47013",+39 630 458 1094,san.ruffillo.north@rentalco.com
+41,Zeist Airport,Zeist,"366 Keizersgracht, 3701",+31 121 014 9839,zeist.airport@rentalco.com
+42,Fort Lauderdale Airport,Fort Lauderdale,"558 Oak Street, 33355",+1 512 673 5345,fort.lauderdale.airport@rentalco.com
+43,Fresno Central,Fresno,"961 Alameda Avenue, 93740",+1 804 378 3591,fresno.central@rentalco.com
+44,Indianapolis West,Indianapolis,"434 Duke Street, 46202",+1 765 585 9819,indianapolis.west@rentalco.com
+45,Midland Central,Midland,"518 Second Street, 79705",+1 608 788 3180,midland.central@rentalco.com
+46,Wasserburg am Inn East,Wasserburg am Inn,"433 Hügelstraße, 83512",+49 604 060 0300,wasserburg.am.inn.east@rentalco.com
+47,Wölfersheim Station,Wölfersheim,"165 Regensburger Straße, 61200",+49 663 064 2822,w.lfersheim.station@rentalco.com
+48,La Rochelle Airport,La Rochelle,"893 Avenue Ledru-Rollin, 17089 CEDEX 2",+33 740 086 9297,la.rochelle.airport@rentalco.com
+49,Beauworth South,Beauworth,"964 Manor Way, SO24",+44 610 130 3523,beauworth.south@rentalco.com
+50,Gravesend North,Gravesend,"622 Market Street, DA12",+44 434 509 6781,gravesend.north@rentalco.com
+51,Meaford North,Meaford,"925 Osborne Street, N4L",+1 709 268 2506,meaford.north@rentalco.com
+52,Woodstock Central South,Woodstock Central,"539 Eglinton Avenue, N4S",+1 321 780 5048,woodstock.central.south@rentalco.com
+53,Moravit Station,Moravit,"240 Calle del Sol, 03724",+34 355 716 1735,moravit.station@rentalco.com
+54,San Cassiano Airport,San Cassiano,"664 Via San Paolo, 42010",+39 933 404 2161,san.cassiano.airport@rentalco.com
+55,Nieuwersluis Central,Nieuwersluis,"326 Brugstraat, 3631",+31 543 999 5186,nieuwersluis.central@rentalco.com
+56,Baltimore Central,Baltimore,"641 Circle Drive, 21216",+1 504 200 6519,baltimore.central@rentalco.com
+57,Houston South,Houston,"606 Royal Street, 77095",+1 405 343 8044,houston.south@rentalco.com
+58,Ashburn East,Ashburn,"147 John Street, 22093",+1 502 633 7682,ashburn.east@rentalco.com
+59,Denver East,Denver,"13 Main Street, 80241",+1 602 225 0123,denver.east@rentalco.com
+60,Harth-Pöllnitz Uhlersdorf Station,Harth-Pöllnitz Uhlersdorf,"953 Bremer Straße, 07570",+49 912 469 1804,harth.p.llnitz.uhlersdorf.station@rentalco.com
+61,Ballstedt North,Ballstedt,"263 Schlossplatz, 99439",+49 443 788 3486,ballstedt.north@rentalco.com
+62,Mimet South,Mimet,"269 Rue Montmartre, 13105",+33 666 444 6690,mimet.south@rentalco.com
+63,Dunwich West,Dunwich,"656 Town Hall Street, IP17",+44 354 998 7838,dunwich.west@rentalco.com
+64,Nethercott West,Nethercott,"109 Wellington Street, OX5",+44 142 349 8555,nethercott.west@rentalco.com
+65,Quebec City South Airport,Quebec City South,"535 Barrington Street, G1S",+1 878 968 5067,quebec.city.south.airport@rentalco.com
+66,Saint-Hubert East South,Saint-Hubert East,"657 Bathurst Street, J3Z",+1 803 626 3390,saint.hubert.east.south@rentalco.com
+67,Martixe South,Martixe,"7 Calle de Ponzano, 36546",+34 636 419 1740,martixe.south@rentalco.com
+68,Ischia Di Castro Airport,Ischia Di Castro,"607 Via Ariosto, 01010",+39 800 134 3108,ischia.di.castro.airport@rentalco.com
+69,Volkel North,Volkel,"197 Kruisstraat, 5408",+31 751 538 6959,volkel.north@rentalco.com
+70,Richmond East,Richmond,"544 Railroad Avenue, 23213",+1 412 862 7416,richmond.east@rentalco.com
+71,Chicago Station,Chicago,"258 Colonial Drive, 60681",+1 716 976 2534,chicago.station@rentalco.com
+72,Evansville Downtown,Evansville,"958 Charles Street, 47725",+1 240 786 9373,evansville.downtown@rentalco.com
+73,Ocala Station,Ocala,"710 Ann Street, 34474",+1 562 495 2375,ocala.station@rentalco.com
+74,Dresden Altfranken North,Dresden Altfranken,"779 Jenaer Straße, 01156",+49 831 371 0710,dresden.altfranken.north@rentalco.com
+75,Nasingen Downtown,Nasingen,"832 Siemensstraße, 54673",+49 662 960 4267,nasingen.downtown@rentalco.com
+76,Saint-Pol-sur-Ternoise Airport,Saint-Pol-sur-Ternoise,"770 Boulevard Voltaire, 62130",+33 936 025 2428,saint.pol.sur.ternoise.airport@rentalco.com
+77,Heilam North,Heilam,"447 Chestnut Drive, IV27",+44 065 919 3735,heilam.north@rentalco.com
+78,Ashby Folville Downtown,Ashby Folville,"823 Shelley Road, LE14",+44 239 631 5582,ashby.folville.downtown@rentalco.com
+79,Rainy River Region West,Rainy River Region,"639 Black Creek Drive, P0W",+1 330 549 0966,rainy.river.region.west@rentalco.com
+80,Windsor South South,Windsor South,"26 Macleod Trail, N9E",+1 852 886 7374,windsor.south.south@rentalco.com

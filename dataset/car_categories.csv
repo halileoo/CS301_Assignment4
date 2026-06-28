@@ -1,0 +1,9 @@
+id,name,description,daily_rate
+1,Economy,"Small, fuel-efficient cars ideal for city driving",32
+2,Compact,Affordable compact cars with good mileage,40
+3,Midsize,Comfortable sedans for longer trips,55
+4,Full-size,Spacious sedans with extra room and comfort,70
+5,SUV,Sport utility vehicles for families and rough terrain,95
+6,Luxury,Premium vehicles with high-end features,150
+7,Van,Large vehicles for groups or cargo,110
+8,Convertible,Open-top cars for a fun driving experience,130
